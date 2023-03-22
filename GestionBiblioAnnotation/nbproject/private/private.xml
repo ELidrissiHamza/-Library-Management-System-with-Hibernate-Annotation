@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/DELL/Downloads/Projet%20Beggar/GestionBiblioAnnotation/src/ma/fstm/ilisi/biblio/controler/ControllerLivre.java</file>
+            <file>file:/C:/Users/DELL/Downloads/Projet%20Beggar/GestionBiblioAnnotation/src/ma/fstm/ilisi/biblio/model/dao/DAOEmprunt.java</file>
+            <file>file:/C:/Users/DELL/Downloads/Projet%20Beggar/GestionBiblioAnnotation/src/ma/fstm/ilisi/biblio/controler/ControllerEmprunt.java</file>
+            <file>file:/C:/Users/DELL/Downloads/Projet%20Beggar/GestionBiblioAnnotation/src/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/DELL/Downloads/Projet%20Beggar/GestionBiblioAnnotation/src/ma/fstm/ilisi/biblio/model/bo/Emprunt.java</file>
+            <file>file:/C:/Users/DELL/Downloads/Projet%20Beggar/GestionBiblioAnnotation/src/ma/fstm/ilisi/biblio/model/dao/DAOExemplaire.java</file>
+            <file>file:/C:/Users/DELL/Downloads/Projet%20Beggar/GestionBiblioAnnotation/src/ma/fstm/ilisi/biblio/controler/ControllerUpdates.java</file>
+            <file>file:/C:/Users/DELL/Downloads/Projet%20Beggar/GestionBiblioAnnotation/src/ma/fstm/ilisi/biblio/model/bo/EmpruntId.java</file>
+            <file>file:/C:/Users/DELL/Downloads/Projet%20Beggar/GestionBiblioAnnotation/src/ma/fstm/ilisi/biblio/model/bo/Exemplaire.java</file>
+            <file>file:/C:/Users/DELL/Downloads/Projet%20Beggar/GestionBiblioAnnotation/src/ma/fstm/ilisi/biblio/view/FrLivre1.java</file>
+            <file>file:/C:/Users/DELL/Downloads/Projet%20Beggar/GestionBiblioAnnotation/src/ma/fstm/ilisi/biblio/model/bo/Adherant.java</file>
+            <file>file:/C:/Users/DELL/Downloads/Projet%20Beggar/GestionBiblioAnnotation/src/ma/fstm/ilisi/biblio/model/dao/DAOAdherant.java</file>
+            <file>file:/C:/Users/DELL/Downloads/Projet%20Beggar/GestionBiblioAnnotation/src/ma/fstm/ilisi/biblio/model/dao/DAOLivre.java</file>
+        </group>
+    </open-files>
+</project-private>
